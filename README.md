@@ -4,7 +4,9 @@
 
 This guide walks you through the process of building a Spring boot 2 application that uses JPA DataTable.
 
-Check this tutorial on my [Blog](https://dev.djamelkorei.me/spring-boot-jpa-datatable) 👋
+### Check the [demo](https://dk-springboot-jpa-datatable.herokuapp.com/)
+### Check this tutorial on my [Blog](https://dev.djamelkorei.me/spring-boot-jpa-datatable) 👋
+
 ## What You Will build
 You will build a Spring Boot application with quick datatable fully configurable.
 
